@@ -10,6 +10,12 @@ private void m2() {
 }
 private void m3() {
 	System.out.println("3");
-
+	
+}
+private void m4() {
+System.out.println("4");
+}
+private void m5() {
+	System.out.println("5");
 }
 }
